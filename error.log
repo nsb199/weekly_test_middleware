@@ -1,0 +1,4 @@
+2024-09-01T16:14:15.547Z - First letter of first name and last name must be capitalized
+2024-09-01T16:14:48.422Z - Password must contain at least one special character, one uppercase letter, one numeric character, and be at least 8 characters long
+2024-09-01T16:14:54.855Z - Invalid email address
+2024-09-01T16:15:09.740Z - Phone number must be at least 10 digits long
